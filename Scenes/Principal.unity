@@ -692,8 +692,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5346f59dc7e4e84a97973ca72e0682c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempoMax: 3
-  tiempo: 1
+  tiempoMax: 3.5
+  tiempo: 0.5
   tubos: {fileID: 3664680835050972604, guid: 5a67f10fb4a666a418cc53e7bb08eb00, type: 3}
   altura: 0.8
   distanciaX: 16
